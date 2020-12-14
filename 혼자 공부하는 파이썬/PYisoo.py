@@ -1,0 +1,8 @@
+print("train10".isalnum())
+print("aefd".isalpha())
+print("aefd".isdentifier())
+print("aefd".isdecimal())
+print("aefd13".isdigit())
+print("    ".isspace())
+print("aefd".islower())
+print("aefd".isupper())
