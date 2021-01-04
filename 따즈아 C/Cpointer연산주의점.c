@@ -23,7 +23,7 @@ int main()
 	printf("x : %d\n", x);
 	printf("&x : %d\n", &x);
 	printf("*px : %d\n", *px);
-	printf("*px++ : %d\n", *px++); //px°¡ °¡Áö°íÀÖ´Â °ªÀ» Ãâ·ÂÇÏ°í ++ÇÑ´Ù.
+	printf("*px++ : %d\n", *px++); //pxê°€ ê°€ì§€ê³ ìˆëŠ” ê°’ì„ ì¶œë ¥í•˜ê³  ++í•œë‹¤.
 	printf("px : %d\n\n", px);
 
 	//3) (*px)++
@@ -32,5 +32,5 @@ int main()
 	printf("x : %d\n", x);
 	printf("&x : %d\n", &x);
 	printf("*px : %d\n", *px);
-	printf("px : %d\n\n", px);
+	printf("px : %d\n\n", px); 
 }
